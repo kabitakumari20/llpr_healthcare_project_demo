@@ -1,0 +1,16 @@
+[
+  {
+    "first_Name": "mahi",
+    "last_Name": "mansi",
+    "dob": 2000,
+    "sex": "female",
+    "marital_status": "unmarital",
+    "mobile": 123456789,
+    "email": "mahi@awagmail.com",
+    "password": "mahi@aa123",
+    "state": "Bihar",
+    "city" :"kishanganj",
+    "pin":855116
+
+  }
+]
